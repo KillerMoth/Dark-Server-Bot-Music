@@ -1,6 +1,6 @@
-owner=516473846983950336
-prefix=.
-game=.play
-stayinchannel=true
+owner=448964162840690700
+prefix=4
+game=4help | DragonsEmpire
+stayinchannel=False
 songinstatus=false
 token=NTMxMTMwMTE2MDM0NTI3MjUz.DxJdIg.pyvjQB0phaEfWwRQCAfmlHz0jb8
