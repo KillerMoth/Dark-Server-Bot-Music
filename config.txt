@@ -1,6 +1,6 @@
 owner=448964162840690700
 prefix=4
 game=4help | DragonsEmpire
-stayinchannel=true
+stayinchannel=false
 songinstatus=false
-token=NTMxMTMwMTE2MDM0NTI3MjUz.DxJdIg.pyvjQB0phaEfWwRQCAfmlHz0jb8
+token=NTI2NDU0MTk4MTgzNzg4NTQ1.DzHtfw.g0_yO7ni01MisTCwMWsJfDn_nDQ
